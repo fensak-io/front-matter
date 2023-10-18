@@ -44,5 +44,9 @@
     "semantic-release": "^22.0.5",
     "ts-jest": "^29.1.1",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "toml": "^3.0.0",
+    "yaml": "^2.3.3"
   }
 }
